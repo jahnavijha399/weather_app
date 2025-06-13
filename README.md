@@ -1,7 +1,7 @@
 # weather_app
 A desktop weather application built with Python and Tkinter that shows current weather conditions, air quality index (AQI), and supports voice input for city search. The app dynamically updates its background based on weather conditions.
 
- ##Features
+ ## Features
 
 - Fetch current weather data from OpenWeatherMap API
 - Display temperature, weather description, and AQI with descriptive labels
@@ -11,6 +11,11 @@ A desktop weather application built with Python and Tkinter that shows current w
 - Responsive GUI built with Tkinter
 
   ## Screenshots
+
+  ![Weather App Screenshot](ss1.png)
+
+  ![Weather App Screenshot](ss2.png)
+
 
 
   ## Requirements
