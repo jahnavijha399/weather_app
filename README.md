@@ -12,6 +12,9 @@ A desktop weather application built with Python and Tkinter that shows current w
 
   ## Screenshots
 
+![Weather App Screenshot](ss1.png)
+
+![Weather App Screenshot](ss2.png)
 
   ## Requirements
 
